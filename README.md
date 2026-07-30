@@ -1,1 +1,1 @@
-# Amal-Aljuaid-website-portfolio
+# Amal-Aljuaid-website-profile
