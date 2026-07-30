@@ -57,8 +57,9 @@ Welcome to my personal website repository! This document outlines the step-by-st
  ```
 ---
 * Resulte:
-  
-  <img width="1033" height="490" alt="Screenshot 2026-07-30 135918" src="https://github.com/user-attachments/assets/329a642b-9b5a-4c0e-a55c-ba0677c4d33d" />
+
+<img width="1126" height="1020" alt="Screenshot 2026-07-30 152318" src="https://github.com/user-attachments/assets/06c1124b-3a69-449f-b0f9-f958008cb1a3" />
+
 
 ### 2️⃣ Saving the File with the Correct Extension (`website profile.html`)
 To ensure web browsers interpret the code as a functional web page rather than plain text:
