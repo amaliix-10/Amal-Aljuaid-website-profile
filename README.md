@@ -1,7 +1,7 @@
 # Amal-Aljuaid-website-profile
 ## Personal Profile Website Project
 
-Welcome to my personal website repository! This document outlines the step-by-step process of building a clean, lightweight personal portfolio using standard **HTML5** and **Notepad++**.
+Welcome to my personal website repository! This document outlines the step-by-step process of building a clean, lightweight personal portfolio using standard **HTML** and **Notepad++**.
 
 ---
 
@@ -56,11 +56,14 @@ Welcome to my personal website repository! This document outlines the step-by-st
   </html>
  ```
 ---
+* Resulte:
+  
+  <img width="1033" height="490" alt="Screenshot 2026-07-30 135918" src="https://github.com/user-attachments/assets/329a642b-9b5a-4c0e-a55c-ba0677c4d33d" />
 
-### 2️⃣ Saving the File with the Correct Extension (`index.html`)
+### 2️⃣ Saving the File with the Correct Extension (`website profile.html`)
 To ensure web browsers interpret the code as a functional web page rather than plain text:
 1. In Notepad++, navigated to **`File` $\rightarrow$ `Save As...`**.
-2. Entered the filename: `index.html`.
+2. Entered the filename: `website profile.html`.
 3. Changed the **Save as type** dropdown to **`All types (*.*)`** (or `Hyper Text Markup Language file (*.html)`).
 4. Saved the file directly into the root project folder.
 
