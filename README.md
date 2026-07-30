@@ -9,7 +9,7 @@ Welcome to my personal website repository! This document outlines the step-by-st
 
 ### 1️ Writing Code in Notepad++
 * Opened **Notepad++** and created a new file document.
-* Wrote the standard HTML5 skeleton structure set to English (`lang="en"`).
+* Wrote the standard HTML skeleton structure set to English (`lang="en"`).
 * Structured the web page into two primary functional sections:
   1. **Hero Section (`<section class="hero">`):** Contains a welcoming header `<h1>` and a concise intro paragraph `<p>`.
   2. **Skills Section (`<section id="skills">`):** Organizes technical and professional skill sets across four categorized `<h3>` headings using clean comma-separated values.
